@@ -1,0 +1,62 @@
+[
+  {
+    "precio": 4500,
+    "id": 1,
+    "title": "MacBook Pro",
+    "thumbnailUrl": "https://i.blogs.es/e1fe2b/apple-macbook-pro-16/1366_2000.jpg"
+  },
+  {
+    "precio": 1500,
+    "id": 2,
+    "title": "Samsung galaxy s10 plus",
+    "thumbnailUrl": "http://electronyx.com.pe/wp-content/uploads/2020/05/SAMSUNG-GALAXY-S10-PLUS-VERDE_1.jpg"
+  },
+  {
+    "precio": 1100,
+    "id": 3,
+    "title": "Apple AirPods",
+    "thumbnailUrl": "https://latienda.pe/9742-large_default/audifonos-apple-airpods-pro.jpg"
+  },
+  {
+    "precio": 300,
+    "id": 4,
+    "title": "Audifonos Sony",
+    "thumbnailUrl": "https://dalthron.com.pe/wp-content/uploads/2020/07/25.jpg"
+  },
+  {
+    "precio": 600,
+    "id": 5,
+    "title": "Disco M.2 ",
+    "thumbnailUrl": "https://acf.geeknetic.es/imgw/imagenes/tutoriales/2019/1695-los-mejores-ssd-m2-nvme-sata/1695-los-mejores-ssd-m2-nvme-sata-13-w00w.jpg"
+  },
+  {
+    "precio": 3000,
+    "id": 6,
+    "title": "Lenovo S340",
+    "thumbnailUrl": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-s340-amd-15-hero.png?context=bWFzdGVyfHJvb3R8MzM0ODk4fGltYWdlL3BuZ3xoYTUvaDQ4Lzk5MTExODU2NzAxNzQucG5nfDgzNTZmZDQ0OTVmMTYzYzgxZTNlOTI0MTZkMzMxNzBiMjg4YWY2Njk5OGY2Y2Y5N2IyN2YwOTU5YzBiMzJlZjA"
+  },
+  {
+    "precio": 1700,
+    "id": 7,
+    "title": "Monitor Samsung",
+    "thumbnailUrl": "https://images.samsung.com/is/image/samsung/mx-cr50-32-lc32r500fhlxzx-frontblack-265795736?$720_576_PNG$"
+  },
+  {
+    "precio": 3000,
+    "id": 8,
+    "title": "iPad Pro",
+    "thumbnailUrl": "https://mac-center.com.pe/wp-content/uploads/2020/04/iPad_Pro_11_2020_SpaceGrey.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 9,
+    "title": "Disco SSD Kingston",
+    "thumbnailUrl": "https://www.venex.com.ar/products_images/1585751676_ssd_240gb_kingston_a400_3.jpg"
+  },
+  {
+    "precio": 1900,
+    "id": 10,
+    "title": "Samsung galaxy Tab A",
+    "thumbnailUrl": "https://www.cybermarket.pe/wp-content/uploads/2020/08/71Fgs53lOgL._AC_SL1500_.jpg"
+  }
+]
